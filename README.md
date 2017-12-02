@@ -1,8 +1,7 @@
 # probs.info
 Sharing day to day problems
 
-
-Global Issues: 
+# Global Issues: 
   1. Africa - The UN system plays a crucial role in coordinating assistance of all kinds — to help Africa help itself.  From promoting the development of democratic institutions, to the establishment of peace between warring nations, the UN is present on the ground supporting economic and social development and the promotion and protection of human rights.
   2. Ageing - The world’s population is ageing: virtually every country in the world is experiencing growth in the number and proportion of older persons in their population. The number of older persons, those aged 60 years or over, has increased substantially in recent years in most countries and regions, and that growth is projected to accelerate in the coming decades. 
   3. AIDS - New HIV infections have fallen by 35% since 2000 (by 58% among children) and AIDS-related deaths have fallen by 42% since the peak in 2004. The global response to HIV has averted 30 million new HIV infections and nearly 8 million  AIDS-related deaths since 2000.  The UN family has been in the vanguard of this progress.
@@ -23,7 +22,19 @@ Global Issues:
   18. Water - Fresh water sustains human life and is vital for human health. There is enough fresh water for everyone on Earth. However, due to bad economics or poor infrastructure, millions of people (most of them children) die from diseases associated with inadequate water supply, sanitation and hygiene.  
   19. Women - UN support for the rights of women began with the Organization's founding Charter. Among the purposes of the UN declared in Article 1 is: “To achieve international co-operation in promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion.”
   
-Problems in India:
+# Problems in Africa 
+1. The Poverty Porn
+2. International Aid
+3. International Medias
+4. The Colonial Borders
+5. Ignorance of the Books of Machiavelli, Hegel & Darwinism
+6. The Rich Subaltern Mentality
+7. Lack of Domestic Leadership Education
+8. Lack of Science & Engineering Education
+9. Lack of International Intelligence network
+10. The Crab Mentality
+
+# Problems in India:
 1. Corruption
 2. Instant access to healthcare
 3. Public transportation
@@ -36,7 +47,7 @@ Problems in India:
 10. Access to clean drinking water
 11. Crime
 
-Problems Faced by the Indian Economy
+# Problems Faced by the Indian Economy
 1. Low level of national income and per capita income
 2. Vast inequalities in income and wealth
 3. Predominance of agriculture
